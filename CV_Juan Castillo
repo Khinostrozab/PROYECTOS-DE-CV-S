@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <big>
+            <big>
+                <b>Juan Diego Castillo Carnero</b>
+            </big>
+        </big>
+    </div>
+    <hr>
+    <div>
+        <b>Perfil</b>
+    </div>
+    <div>
+        Estudiante de 7mo ciclo de la Carrera de Ingeniería de Sistemas en la Universidad de Lima, ubicado en el quinto superior. Dominio del idioma inglés a nivel Avanzado y nivel profesional en Excel.
+    </div>
+    <hr/>
+    <div>
+        <b>Información de Contacto</b>
+    <ul>
+        <li>DNI: 71642924</li>
+        <li>Teléfono: +51 983145876</li>
+        <li>Correo Electrónico: juandiedix@gmail.com</li>
+    </ul>
+    <hr/>
+    <div>
+        <b>Educación</b>
+    </div>
+    <ul>
+        <li><em>Universidad de Lima (2018)</em></li>
+        <div>
+            Estudiante del sétimo ciclo la carrera de Ingeniería de Sistemas, pertenezco al quinto superior de mi carrera.  
+        </div>
+    </ul>    
+    <hr/>
+    <div>
+        <b>Formación</b>
+    </div>
+    <ul>
+        <li><em>Instituto Británico (2013-2018)</em></li>
+            <div>
+                Dominio del idioma inglés a nivel avanzado.
+            </div>
+        <li><em>Sistemas UNI (2019)</em></li>
+            <div>
+                Dominio del programa Microsoft Excel a nivel avanzado.
+            </div> 
+        <li><em>TECSUP (2020)</em></li>
+            <div>
+                Dominio del programa Microsoft Excel a nivel avanzado.
+            </div>
+    </ul>
+    <hr/>
+</body>
+</html>
