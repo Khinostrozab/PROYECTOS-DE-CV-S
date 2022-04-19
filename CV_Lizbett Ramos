@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div > 
+        Ramos Mendoza Estefani Lizbett
+    	
+    </div>
+    <div>
+        DNI: 70863209
+    </div>
+    <div>
+        +51962359977
+    </div>
+    <div>
+        faniliz2001liz@gmail.com
+    </div>
+    <div>
+        <a href=" https://github.com/Liz2001/Lizbett_web_-3.git" target="_blank">Link GitHub</a>
+    </div>
+    <h1>
+       <b>Perfil </b> 
+    </h1>
+    
+    <p>
+        Estudiante del quinto ciclo de la Carrera de Ingeniería de Sistemas de la Universidad <br/>
+        de Lima (Medio superior). Con conocimiento en programación de Python, C y HTML.<br/>
+        Orientada a la gestión de proyectos en sistemas de información. Dominio del<br/>
+        Inglés(intermedio).
+    </p>
+    <h1>
+       <b>Formacion académica </b> 
+    </h1>
+
+    <p>
+        <span>
+          2022-Actualmente &nbsp;&nbsp;&nbsp;&nbsp;	Estudiante 7to ciclo de la carrera Ingeniería de Sistemas en la <br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidad de Lima.<br/>
+          2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Egresada Colegio de alto rendimiento “COAR -Lima”  
+        </span>
+        
+
+    </p>
+
+    <h1>
+       <b>Educacion Profesional</b>  
+    </h1>
+    <p>
+        2020&nbsp;&nbsp; (Julio-Agosto)&nbsp;&nbsp;Certificado Habilidades para el empleo en el programa de formación digital.
+    </p>
+    <h1>
+        <b>Idiomas /otros conocimientos</b>
+    </h1>
+    <p>
+        2020&nbsp;&nbsp; Inglés (Intermedio). 
+    </p>
+    <h1>
+        <b>Informacion adicional </b>
+    </h1>
+    <p>
+    2019 (Julio) &nbsp;&nbsp; Voluntario en la limpieza de playa de Punta Rocas.<br/>
+    2015 (Agosto)&nbsp;&nbsp; Voluntario en la reforestación de los jardines en el campo deportivo de la <br/>&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;zona de Lurigancho-Chosica.<br/>
+
+    </p>
+</body>
+</html>
